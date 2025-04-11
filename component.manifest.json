@@ -1,6 +1,7 @@
 {
   "collections": {
     "@archetype-themes/reference-components": {
+      "commit": "200e74d93f7e549d930892b87e7ff63d6c367808",
       "version": "2.0.0"
     }
   },
@@ -65,9 +66,7 @@
       "util.script-loader.js": "@archetype-themes/reference-components",
       "util.table.css": "@archetype-themes/reference-components",
       "util.visibility.css": "@archetype-themes/reference-components",
-      "vendor.es-module-shims.min.js": "@archetype-themes/reference-components",
-      "vendor.in-view.js": "@archetype-themes/reference-components",
-      "vendor.is-land.min.js": "@archetype-themes/reference-components"
+      "vendor.in-view.js": "@archetype-themes/reference-components"
     },
     "snippets": {
       "block-buy-buttons.liquid": "@archetype-themes/reference-components",
